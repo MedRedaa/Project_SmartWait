@@ -1,0 +1,143 @@
+{
+    "places": {
+        "CIH Agdal": {
+            "place_name": "CIH Agdal",
+            "adress": "9 Rue Jabal Bouiblane, Rabat",
+            "Camera": {
+                "total_person": "4"
+            },
+            "service": {
+                "Customer service": {
+                    "people_nbr": "2",
+                    "user": [
+                        {
+                            "user_id": "112pid63",
+                            "Date_Booking": "8:30"
+                        },
+                        {
+                            "user_id": "112p563",
+                            "Date_Booking": "9:30"
+                        }
+                    ]
+                },
+                "Loan service": {
+                    "people_nbr": "1",
+                    "user": [
+                        {
+                            "user_id": "112pid63",
+                            "Date_Booking": "8:30"
+                        }
+                    ]
+                },
+                "Wire transfer": {
+                    "people_nbr": "1",
+                    "user": [
+                        {
+                            "user_id": "112pid63",
+                            "Date_Booking": "8:30"
+                        }
+                    ]
+                },
+                "Currency exchange": {
+                    "people_nbr": "1",
+                    "user": [
+                        {
+                            "user_id": "112pid63",
+                            "Date_Booking": "8:30"
+                        }
+                    ]
+                }
+            }
+        },
+        "CIH Hay Riad": {
+            "place_name": "CIH Hay Riad",
+            "adress": "av. Annakhil, imm.High Tech n 3 hay Ryad, Agdal Riyad",
+            "Camera": {
+                "total_person": "28"
+            },
+            "service": {
+                "Customer service": {
+                    "people_nbr": "1",
+                    "user": [
+                        {
+                            "user_id": "112pid63",
+                            "Date_Booking": "8:30"
+                        }
+                    ]
+                },
+                "Loan service": {
+                    "people_nbr": "1",
+                    "user": [
+                        {
+                            "user_id": "112pid63",
+                            "Date_Booking": "8:30"
+                        }
+                    ]
+                },
+                "Wire transfer": {
+                    "people_nbr": "1",
+                    "user": [
+                        {
+                            "user_id": "112pid63",
+                            "Date_Booking": "8:30"
+                        }
+                    ]
+                },
+                "Currency exchange": {
+                    "people_nbr": "1",
+                    "user": [
+                        {
+                            "user_id": "112pid63",
+                            "Date_Booking": "8:30"
+                        }
+                    ]
+                }
+            }
+        },
+        "Banque Populaire Agdal": {
+            "place_name": "Banque Populaire Agdal",
+            "adress": "X5W2+X75,Av. de France, Rabat",
+            "Camera": {
+                "total_person": "15"
+            },
+            "service": {
+                "Customer service": {
+                    "people_nbr": "1",
+                    "user": [
+                        {
+                            "user_id": "112pid63",
+                            "Date_Booking": "8:30"
+                        }
+                    ]
+                },
+                "Loan service": {
+                    "people_nbr": "1",
+                    "user": [
+                        {
+                            "user_id": "112pid63",
+                            "Date_Booking": "8:30"
+                        }
+                    ]
+                },
+                "Wire transfer": {
+                    "people_nbr": "1",
+                    "user": [
+                        {
+                            "user_id": "112pid63",
+                            "Date_Booking": "8:30"
+                        }
+                    ]
+                },
+                "Currency exchange": {
+                    "people_nbr": "1",
+                    "user": [
+                        {
+                            "user_id": "112pid63",
+                            "Date_Booking": "8:30"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
